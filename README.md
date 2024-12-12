@@ -5,3 +5,4 @@ This free mini-workshop, offered by by Steve Hoover of Redwood EDA, LLC, Linux F
 
 I worked along this coursed and completed the project.
 
+![Final Core](lib/riscv.svg)
